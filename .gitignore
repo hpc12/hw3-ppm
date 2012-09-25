@@ -2,3 +2,4 @@
 test-ppm
 .*.swp
 *out.ppm
+make-gaussian-kernel
