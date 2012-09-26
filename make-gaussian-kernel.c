@@ -5,7 +5,7 @@
 
 int main()
 {
-  image_t *img = alloc_image(33, 33);
+  image_t *img = alloc_image(32, 32);
   if (!img)
     return EXIT_FAILURE;
   double w = img->width;
